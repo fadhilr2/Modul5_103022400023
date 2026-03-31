@@ -1,0 +1,15 @@
+D:\Naufal\Modul5_103022400023\Modul5_103022400023\bin\Debug\net10.0\Modul5_103022400023.exe
+D:\Naufal\Modul5_103022400023\Modul5_103022400023\bin\Debug\net10.0\Modul5_103022400023.deps.json
+D:\Naufal\Modul5_103022400023\Modul5_103022400023\bin\Debug\net10.0\Modul5_103022400023.runtimeconfig.json
+D:\Naufal\Modul5_103022400023\Modul5_103022400023\bin\Debug\net10.0\Modul5_103022400023.dll
+D:\Naufal\Modul5_103022400023\Modul5_103022400023\bin\Debug\net10.0\Modul5_103022400023.pdb
+D:\Naufal\Modul5_103022400023\Modul5_103022400023\obj\Debug\net10.0\Modul5_103022400023.GeneratedMSBuildEditorConfig.editorconfig
+D:\Naufal\Modul5_103022400023\Modul5_103022400023\obj\Debug\net10.0\Modul5_103022400023.AssemblyInfoInputs.cache
+D:\Naufal\Modul5_103022400023\Modul5_103022400023\obj\Debug\net10.0\Modul5_103022400023.AssemblyInfo.cs
+D:\Naufal\Modul5_103022400023\Modul5_103022400023\obj\Debug\net10.0\Modul5_103022400023.csproj.CoreCompileInputs.cache
+D:\Naufal\Modul5_103022400023\Modul5_103022400023\obj\Debug\net10.0\Modul5_103022400023.sourcelink.json
+D:\Naufal\Modul5_103022400023\Modul5_103022400023\obj\Debug\net10.0\Modul5_103022400023.dll
+D:\Naufal\Modul5_103022400023\Modul5_103022400023\obj\Debug\net10.0\refint\Modul5_103022400023.dll
+D:\Naufal\Modul5_103022400023\Modul5_103022400023\obj\Debug\net10.0\Modul5_103022400023.pdb
+D:\Naufal\Modul5_103022400023\Modul5_103022400023\obj\Debug\net10.0\Modul5_103022400023.genruntimeconfig.cache
+D:\Naufal\Modul5_103022400023\Modul5_103022400023\obj\Debug\net10.0\ref\Modul5_103022400023.dll
